@@ -1,0 +1,15 @@
+First open Cmd administrator then enter this commands
+
+cd Your path
+
+python
+
+quit()
+
+python -m venv env
+
+.\env\Scripts\activate
+
+pip install -r requirements.txt
+
+python lichess-bot.py -u
